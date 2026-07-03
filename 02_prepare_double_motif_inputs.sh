@@ -12,7 +12,7 @@ set -euo pipefail
 
 cd "$LS_SUBCWD"
 
-EXPERIMENT="exp_doubles_01"
+EXPERIMENT="exp_doubles_03"
 STRUCTURE="data/raw/5gpe.cif"
 SCRIPT="scripts/2_prepare_rdf3_doubles_inputs.py"
 OUTDIR="work/${EXPERIMENT}"
